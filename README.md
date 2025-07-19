@@ -1,0 +1,1 @@
+# Deforestation_fire_classification_AIML_july
